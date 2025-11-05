@@ -2,6 +2,11 @@
 
 🤖 Bot otomatis untuk subscribe di Asseto platform menggunakan USDT di Atlantic Chain
 
+## 📸 Bot in Action
+
+![image](https://github.com/user-attachments/assets/e823d13a-8c59-419f-af96-5ef7cc6927f9)
+
+
 ## 📋 Fitur
 
 - ✅ Multi-wallet support (multiple private keys)
