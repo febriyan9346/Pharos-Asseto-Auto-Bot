@@ -1,11 +1,3 @@
-# Contoh konfigurasi environment variables
-# Copy file ini ke .env dan isi dengan private key Anda
-
-# Private Key Format:
-# - Bisa dengan atau tanpa prefix 0x
-# - Gunakan PRIVATEKEY_1, PRIVATEKEY_2, dst untuk multiple wallets
-# - Urutan angka akan menentukan urutan eksekusi
-
 # Wallet 1
 PRIVATEKEY_1=your_private_key_here
 
@@ -14,7 +6,3 @@ PRIVATEKEY_1=your_private_key_here
 
 # Wallet 3 (optional)
 # PRIVATEKEY_3=your_third_private_key_here
-
-# Tambahkan lebih banyak wallet sesuai kebutuhan
-# PRIVATEKEY_4=
-# PRIVATEKEY_5=
